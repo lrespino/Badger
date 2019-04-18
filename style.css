@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    font-family: 'Noto Serif', serif;
+    
+}
+h1{
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+
+  p{
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+
+  #img-me{
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+
+  }
